@@ -1,0 +1,70 @@
+Soal SQL:
+Tampilkan Semua Film:
+
+1. Tampilkan semua data dari tabel "film".
+
+2. Film dengan Kategori Tertentu:
+Tampilkan judul dan tahun rilis film-film dalam kategori "Action".
+
+3. Aktor pada Film Tertentu:
+Tampilkan nama aktor yang berperan dalam film dengan judul "The Shawshank Redemption".
+
+4. Film dalam Bahasa Tertentu:
+Tampilkan judul film dan bahasa dari film-film yang berbicara dalam bahasa "French".
+
+5. Film dengan Aktor Tertentu:
+Tampilkan judul film dan tahun rilisnya yang dibintangi oleh aktor "Tom Hanks".
+
+6. Film dalam Kategori dan Bahasa Tertentu:
+Tampilkan judul film dalam kategori "Comedy" dan berbahasa "Spanish".
+
+7. Aktor yang Memainkan Lebih dari Satu Film:
+Tampilkan nama aktor dan jumlah film yang dia mainkan.
+
+8. Film dengan Rating Tertentu:
+Tampilkan judul dan rating film-film yang memiliki rating di atas 8.
+
+9. Film yang Dirilis Setelah Tahun Tertentu:
+Tampilkan judul dan tahun rilis film-film yang dirilis setelah tahun 2010.
+
+10. Pengelompokkan Film berdasarkan Kategori:
+Tampilkan jumlah film dalam setiap kategori beserta nama kategorinya.
+
+11. Film dengan Durasi Terpanjang:
+Tampilkan judul dan durasi film dengan durasi terpanjang.
+
+12. Film dengan Aktor Bersama:
+Tampilkan nama aktor dan judul film di mana mereka bermain bersama.
+
+13. Pengelompokkan Aktor berdasarkan Kategori Film:
+Tampilkan nama aktor dan kategori film yang mereka mainkan.
+
+14. Jumlah Film dalam Setiap Bahasa:
+Tampilkan jumlah film dalam setiap bahasa.
+
+15. Film dengan Nama Aktor Tertentu:
+Tampilkan judul film dan tahun rilisnya yang dibintangi oleh aktor "Brad Pitt".
+
+16. Pengelompokkan Film berdasarkan Rating:
+Tampilkan jumlah film dalam setiap kisaran rating (misalnya: 0-5, 5-7, 7-9).
+
+17. Pengelompokkan Aktor berdasarkan Jumlah Film:
+Tampilkan nama aktor dan jumlah film yang mereka mainkan, urutkan berdasarkan jumlah film secara menurun.
+
+18. Film dengan Kata Kunci dalam Judul:
+Tampilkan judul dan tahun rilis film-film yang mengandung kata kunci "love" dalam judulnya.
+
+19. Film dengan Jumlah Aktor Tertentu:
+Tampilkan judul film yang memiliki lebih dari 3 aktor.
+
+20. Pengelompokkan Film berdasarkan Kombinasi Kategori:
+Tampilkan jumlah film dalam setiap kombinasi kategori (misalnya: "Action" dan "Comedy").
+
+21. Rating code dan Rating
+Tampilkan judul film, rating_code, dan rating berdasarkan rating_code pada film
+Jika rating_code G, maka rating Semua Umur
+Jika rating_code PG, maka rating Anak Bimbingan Orang Tua
+Jika rating_code PG-13, maka rating Remaja 13 tahun Bimbingan Orang Tua
+Jika rating_code R, maka rating Remaja Bimbingan Orang Tua
+Sisanya, rating Dewasa
+Gunakan case
